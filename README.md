@@ -21,7 +21,8 @@
 
 <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> 
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://iconos8.es/icon/BUnExfsRs3CW/vuejs"/>
+"/>
 <br>
 ## Contact
 <br>
