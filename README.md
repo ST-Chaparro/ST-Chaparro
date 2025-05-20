@@ -17,11 +17,19 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/>  
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>  
 
 <br>
+
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+
 ## Contact
 
 <br>
