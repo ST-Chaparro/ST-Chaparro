@@ -8,6 +8,7 @@
 
 ## About Me :
 
+I am a junior front-end developer, I am passionate about learning new things about the world of web development.
 
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
@@ -36,7 +37,7 @@
 ## Databases:
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 
-## Contact
+
 
 <br>
 
