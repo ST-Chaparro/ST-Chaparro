@@ -3,7 +3,7 @@
 <div align="center" width="50">
     <img alt="" src="#" width="300"/>
 </div>
-<h1 align="center">Hi, I'm Brayan-Chaparro</h1>
+<h1 align="center">Hi, I'm Stiven-Chaparro</h1>
 
 
 ## About Me :
