@@ -6,6 +6,7 @@
 <h1 align="center">Hi, I'm Stiven-Chaparro</h1>
 
 
+
 ## About Me :
 
 I am a junior front-end developer, I am passionate about learning new things about the world of web development.
@@ -15,7 +16,10 @@ I have skills in requirements analysis and documentation. I also have experience
 
 <br>
 
+## Contact :
+<a href="stiven4158bry@gmail.com">stiven4158bry@gmail.com </a>
 
+<br>
 
 ##  🧑‍💻 languages :
 <br>
