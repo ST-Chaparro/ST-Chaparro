@@ -9,7 +9,7 @@
 ## About Me :
 
 I am a junior front-end developer, I am passionate about learning new things about the world of web development.
-I have skills in requirements analysis and documentation.
+I have skills in requirements analysis and documentation. I also have experience working collaboratively.
 
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
